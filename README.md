@@ -60,3 +60,7 @@ solana program deploy target/deploy/nft.so
 >>>> Include any additional information or instructions necessary for users to interact with your NFT contract on the Solana blockchain.
 >>>>> Feel free to customize and elaborate on the instructions based on your specific project requirements and the intended audience for your GitHub repository.
 
+
+_Thank you for diving into the NFT Wonderland! 🚀 If you find yourself lost in the enchanting code forest or need a wizard's guidance,  remember, I learned all this magic from_ [Rise in](https://www.risein.com/) Website's Bootcamp!
+
+_Feel free to fork this project and let your imagination run wild! 🌟 May your code sparkle with endless possibilities! ✨😊_
