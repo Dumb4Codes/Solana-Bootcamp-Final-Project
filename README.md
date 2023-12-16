@@ -1,4 +1,4 @@
-# NFT Basics 
+# NFT Basics
 
 ## Program ID
 **Program ID**: 72mDXcBHRB4Cde3oFnStNVMge4KjkVQuPZzdKE556yJo
@@ -55,7 +55,7 @@ solana program deploy target/deploy/nft.so
 
 ## Additional Information
 > Ensure that you have Solana installed and configured on your machine.
->> Make sure to replace the placeholder Program ID `(72mDXcBHRB4Cde3oFnStNVMge4KjkVQuPZzdKE556yJo)` with your actual Program ID.
+>> Make sure to replace the placeholder Program ID `72mDXcBHRB4Cde3oFnStNVMge4KjkVQuPZzdKE556yJo` with your actual Program ID.
 >>> Customize the mint, transfer, and burn functions based on the specific requirements of your NFT project.
 >>>> Include any additional information or instructions necessary for users to interact with your NFT contract on the Solana blockchain.
 >>>>> Feel free to customize and elaborate on the instructions based on your specific project requirements and the intended audience for your GitHub repository.
