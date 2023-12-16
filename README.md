@@ -32,7 +32,7 @@ Paste and execute the following code in the terminal:
 ## Set up your config
 Paste the following code in the terminal:
 ```
-  solana config set --url devnet
+solana config set --url devnet
 ```
 
 ## Get dev tokens
